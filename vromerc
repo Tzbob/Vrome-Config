@@ -1,0 +1,3 @@
+set useletters=1
+set hintkeys=asdfghjklweiopq
+map d <M-d>
